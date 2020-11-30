@@ -1,2 +1,10 @@
--- Basic Tic Tac Toe Game --
+# Basic Tic Tac Toe Game
 
+This is basic tic tac toe game where user can input the number where he want to place their mark using 1-9 and program will do the rest.
+
+# How to run
+
+1. Open cmd (python need to be install)
+2. Go to directory where file is stored
+3. type in cmd -> python ticktacktoe.py
+4. Play the game, Enjoy!!
